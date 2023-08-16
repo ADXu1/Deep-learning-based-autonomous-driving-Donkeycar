@@ -2,6 +2,15 @@
 
 ### Author：Chuanji Xu
 
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+ 
+ [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://github.com/autorope/donkeycar)
+ ![Release](https://img.shields.io/github/v/release/autorope/donkeycar) 
+ [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org)
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+
 <img width="1104" alt="image" src="https://github.com/ADXu1/Deep-learning-based-autonomous-driving-Donkeycar-/assets/109978889/f64b4e45-fef6-477d-a3c7-ce17c174b7a0">
 
 
