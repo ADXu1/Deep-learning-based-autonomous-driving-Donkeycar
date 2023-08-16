@@ -2,7 +2,10 @@
 
 ### Author：Chuanji Xu
 
-[![Deep learning-based self-driving car Donkeycar](https://github.com/ADXu1/Deep-learning-based-autonomous-driving-Donkeycar-/assets/109978889/d36a3492-2016-4cd8-af72-7b467405f9ac)](https://youtu.be/S9ueqTQaz2s)
+<img width="1104" alt="image" src="https://github.com/ADXu1/Deep-learning-based-autonomous-driving-Donkeycar-/assets/109978889/f64b4e45-fef6-477d-a3c7-ce17c174b7a0">
+
+
+# (https://youtu.be/S9ueqTQaz2s)
 
 ## INTRODUCE
 
